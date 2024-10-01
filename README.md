@@ -56,9 +56,6 @@ After starting the application, navigate to `http://localhost:8080` in your web 
 ## Contributing
 We welcome contributions to this project. Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgments
 - Spring Framework documentation
 - Bootstrap documentation
